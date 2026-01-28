@@ -9,7 +9,7 @@ The main goal of this project was to practice **data cleaning, transformation, a
 The repository contains:
 
 * An **Excel file** with cleaned data, analysis, and dashboard
-* A **PNG image** of the final dashboard
+* A **PNG image** of the final dashboard.
 
 ## Data Source
 
