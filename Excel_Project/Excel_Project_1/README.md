@@ -10,6 +10,7 @@ The repository contains:
 
 * An **Excel file** with cleaned data, analysis, and dashboard
 * A **PNG image** of the final dashboard.
+![image alt](https://github.com/GauravGandhi263/Project/blob/1586fcec25db9361a8ad6b3c5bcc9dbcf63e8f85/Excel_Project/Excel_Project_1/Coffee_Sales_Dashboard.png)
 
 ## Data Source
 
