@@ -52,7 +52,7 @@ An **interactive Excel dashboard** was created using the pivot table analysis:
 
 ### 🔹 Interactive Dashboard
 Final Excel dashboard built using pivot tables, charts, and slicers for dynamic analysis.
-!(Excel_Project/Excel_Project_2/Pizza_Sales_Dashboard.png)
+![image alt](https://github.com/GauravGandhi263/Project/blob/912ad07db77d89396853ddad9a7d79fa26d1a994/Excel_Project/Excel_Project_2/Pizza_Sales_Dashboard.png)
 ---
 
 ## 🛠️ Tools Used
