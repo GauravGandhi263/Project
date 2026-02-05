@@ -9,7 +9,7 @@ The goal was to combine multiple data sources, clean and transform the data, per
 ## 🗂️ Data Sources
 - The project uses **4 different Excel sheets**
 - Each sheet contains **important and related columns**
-- All sheets are **merged using Power Query** by creating relationships between common columns
+- All sheets are **merged using Power Query** by creating relationships between common columns.
 
 ---
 
