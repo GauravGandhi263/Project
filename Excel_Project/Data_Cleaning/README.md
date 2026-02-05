@@ -5,7 +5,7 @@ This project focuses on cleaning and formatting raw data using Microsoft Excel t
 ## 📊 Before & After
 
 **Before Cleaning:**  
-![Before](PASTE_BEFORE_SCREENSHOT_LINK_HERE)
+![Before](https://github.com/GauravGandhi263/Project/blob/ceae6e4613eeaf1d1e28351b34bde247a74f9d22/Excel_Project/Data_Cleaning/Messy_data.png)
 
 **After Cleaning:**  
 ![After](PASTE_AFTER_SCREENSHOT_LINK_HERE)
