@@ -19,10 +19,10 @@ A **folder-based automation** ensures that any new data added to the folder is a
 ## 🖼️ Screenshots
 
 ### Source Excel File (Sample)
-![Image]()
+![Image](https://github.com/GauravGandhi263/Project/blob/520dafc5d4098c31067d55f91c6718f870240bf6/Excel_Project/Combine%20Multiple%20Excel%20Sheets/Multiple_Data.png)
 
 ### Final Consolidated Output
-![Final Output]()
+![Final Output](https://github.com/GauravGandhi263/Project/blob/520dafc5d4098c31067d55f91c6718f870240bf6/Excel_Project/Combine%20Multiple%20Excel%20Sheets/Combine_Data.png)
 
 ## 🛠️ Tools Used
 - Microsoft Excel  
