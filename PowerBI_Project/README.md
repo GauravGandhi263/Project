@@ -1,4 +1,4 @@
-![Power BI Dashboard Preview](PASTE_YOUR_IMAGE_LINK_HERE)
+![Power BI Dashboard Preview](https://github.com/GauravGandhi263/Project/blob/d4b4bd1f872f9b3452c4ffae19d4a9375f1367a5/PowerBI_Project/PowerBI_Dashboard.png)
 
 # 📊 Power BI Interactive Dashboard Project
 
