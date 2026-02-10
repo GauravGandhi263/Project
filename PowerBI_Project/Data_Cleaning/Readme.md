@@ -1,7 +1,7 @@
 # Power BI ETL with Power Query 🚀
 
-![Before ETL](./images/before-etl.png)
-![After ETL](./images/after-etl.png)
+![Before ETL](https://github.com/GauravGandhi263/Project/blob/f1bd10ba7ab2f606fe195623056196ad699ff624/PowerBI_Project/Data_Cleaning/Messy_data.png)
+![After ETL](https://github.com/GauravGandhi263/Project/blob/f1bd10ba7ab2f606fe195623056196ad699ff624/PowerBI_Project/Data_Cleaning/Cleaned_data.png)
 
 > **Before & After:** Raw, inconsistent data transformed into a clean, analytics-ready model using **Power Query** in **Power BI**.
 
@@ -83,8 +83,4 @@ Each step was built using **Power Query’s M transformations**, making the proc
 3. Refresh data to re-run the ETL pipeline
 
 ---
-
-## 📸 Screenshots
-
-Replace the image paths at the top of this README with your own:
 
