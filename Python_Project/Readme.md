@@ -2,9 +2,11 @@
 
 This project demonstrates a complete end-to-end data analysis workflow using Python.  
 It starts with raw datasets, applies data cleaning and transformation techniques, performs exploratory data analysis (EDA), and presents insights through an interactive Streamlit dashboard.
-
 ---
-https://github.com/GauravGandhi263/Project/blob/959a5200d9668b99dc8a83c46c205f189d25508a/Python_Project/Data_analysis_Dashboard/interactive%20Dashboard%20using%20Steamlit.png
+# Dashboard Preview
+
+![Dashboard Preview](https://github.com/GauravGandhi263/Project/blob/959a5200d9668b99dc8a83c46c205f189d25508a/Python_Project/Data_analysis_Dashboard/interactive%20Dashboard%20using%20Steamlit.png)
+
 ---
 
 # 📁 Dataset
